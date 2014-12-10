@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.21)  10 DEC 2014 12:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.4.21)  10 DEC 2014 12:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -347,7 +347,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 429.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 429.
- [5] [6] [7] [8] (./novena.aux
+ [5] [6] [7] [8] [9
+
+]
+(./novena.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
@@ -368,10 +371,10 @@ pk/ljfour/jknappen/ec/ecrm1000.600pk> </home/chlewey/.texmf-var/fonts/pk/ljfour
 /ec/ecrm1200.600pk> </home/chlewey/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1
 728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.
 pfb>
-Output written on novena.pdf (8 pages, 120807 bytes).
+Output written on novena.pdf (9 pages, 121150 bytes).
 PDF statistics:
- 374 PDF objects out of 1000 (max. 8388607)
- 55 compressed objects within 1 object stream
+ 377 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
