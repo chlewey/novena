@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg id="novena-intro-d1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1920" height="1080" version="1.1" inkscape:version="0.48.4 r9939" sodipodi:docname="novena-intro-d1.svg">
+  <defs id="definiciones">
+    <linearGradient id="linearGradient3953">
+      <stop id="stop3955" style="stop-color:#883377;stop-opacity:1;" offset="0" />
+      <stop id="stop3957" style="stop-color:#398833;stop-opacity:1;" offset="1" />
+    </linearGradient>
+    <filter id="f-glow" inkscape:collect="always" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="g-glow" inkscape:collect="always" stdDeviation="15" />
+    </filter>
+    <filter id="f-shad" inkscape:collect="always" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="g-shad" inkscape:collect="always" stdDeviation="5" />
+    </filter>
+    <linearGradient id="linearGradient3959" inkscape:collect="always" xlink:href="#linearGradient3953" x1="0" y1="540" x2="1920" y2="540" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.5" inkscape:cx="875.55469" inkscape:cy="540" inkscape:document-units="px" inkscape:current-layer="amarillo" showgrid="false" inkscape:window-width="1855" inkscape:window-height="1056" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="1" />
+  <metadata id="metadata3007">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Novena de aguinaldos</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer">
+    <g id="glow" style="fill:#ffffff;filter:url(#f-glow)">
+      <use id="gl-tit" x="0" y="0" xlink:href="#titulo" width="1920" height="1080" />
+      <use id="gl-sub" x="0" y="0" xlink:href="#subtitulo" width="1920" height="1080" />
+      <use id="gl-res" xlink:href="#autor-2" y="0" x="0" />
+      <use id="use3992" xlink:href="#autor-y" y="0" x="0" />
+      <use id="use3990" xlink:href="#autor-1" y="0" x="0" />
+      <use id="use3988" xlink:href="#autor-por" y="0" x="0" />
+      <use id="use3986" xlink:href="#resumen" y="0" x="0" />
+    </g>
+    <g id="shadow" style="opacity:0.75;fill:#000000;filter:url(#f-shad)" transform="matrix(1.01,0,0,1.01,-6,2)">
+      <use id="sh-tit" x="0" y="0" xlink:href="#titulo" width="1920" height="1080" />
+      <use id="sh-sub" x="0" y="0" xlink:href="#subtitulo" width="1920" height="1080" />
+      <use id="sh-res" x="0" y="0" xlink:href="#resumen" />
+      <use id="use3961" x="0" y="0" xlink:href="#autor-por" />
+      <use id="use3963" x="0" y="0" xlink:href="#autor-1" />
+      <use id="use3965" x="0" y="0" xlink:href="#autor-y" />
+      <use id="use3967" x="0" y="0" xlink:href="#autor-2" />
+    </g>
+    <g id="foreground">
+      <g id="amarillo" style="opacity:0.875;fill:#ffdd00;stroke:#aaaa99;stroke-width:2">
+        <text id="titulo" xml:space="preserve" style="font-size:200px;text-align:center;text-anchor:middle;font-family:Fette Haenel Fraktur;-inkscape-font-specification:Fette Haenel Fraktur" x="960" y="288"><tspan
+           id="titulo-s" sodipodi:role="line" x="960" y="288">Novena de aguinaldos</tspan></text>
+        <text id="subtitulo" y="504" x="960" style="font-size:128px;text-align:center;text-anchor:middle;font-family:DS Ballade" xml:space="preserve"><tspan
+           id="subtitulo-s" y="504" x="960" sodipodi:role="line">Versión tradicional - Día 1</tspan></text>
+      </g>
+      <g id="azul" style="opacity:0.875;fill:#0055aa;stroke:#224466;stroke-width:2">
+        <text id="resumen" xml:space="preserve" style="font-size:90px;text-align:center;text-anchor:middle;stroke-width:2;font-family:DS Ballade" x="960" y="720"><tspan
+           id="resumen-s" sodipodi:role="line" x="960" y="720">Novena para la venida del niño Jesús</tspan></text>
+      </g>
+      <g id="verde" style="opacity:0.875;fill:#55aa00;stroke:#446622;stroke-width:2">
+        <text id="autor-por" y="900" x="740" style="font-size:68px;text-align:end;text-anchor:end;font-family:DS Ballade" xml:space="preserve"><tspan
+           id="tspan3875" y="900" x="764.70312" sodipodi:role="line">textos por </tspan></text>
+        <text id="autor-1" xml:space="preserve" style="font-size:72px;text-align:start;text-anchor:start;font-family:DS Ballade" x="780" y="900"><tspan
+           id="tspan3879" sodipodi:role="line" x="780" y="900">Fray Fernando de Jesús Larrea</tspan></text>
+        <text id="autor-y" y="981" x="740" style="font-size:68px;text-align:end;text-anchor:end;font-family:DS Ballade" xml:space="preserve"><tspan
+           id="tspan3883" y="981" x="740" sodipodi:role="line">y</tspan></text>
+        <text id="autor-2" y="981" x="780" style="font-size:72px;text-align:start;text-anchor:start;font-family:DS Ballade" xml:space="preserve"><tspan
+           id="tspan3887" y="981" x="780" sodipodi:role="line">la Madre María Ignacia</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
