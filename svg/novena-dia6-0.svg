@@ -40,7 +40,7 @@
     <g id="foreground">
       <g id="amarillo" style="opacity:0.875;fill:#ffdd00;stroke:#aaaa99;stroke-width:2">
         <text id="titulo" xml:space="preserve" style="font-size:90px;text-align:center;text-anchor:middle;font-family:Fette Haenel Fraktur;-inkscape-font-specification:Fette Haenel Fraktur" x="480" y="105"><tspan
-           id="titulo-s" sodipodi:role="line" x="480" y="120" style="stroke-width:0.91146028">Novena de aguinaldos</tspan></text>
+           id="titulo-s" sodipodi:role="line" x="480" y="120">Novena de aguinaldos</tspan></text>
         <text id="subtitulo" y="180" x="480" style="font-size:64px;text-align:center;text-anchor:middle;font-family:DS Ballade" xml:space="preserve"><tspan
            id="subtitulo-s" y="200" x="480" sodipodi:role="line">Versión tradicional</tspan></text>
       </g>

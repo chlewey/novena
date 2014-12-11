@@ -25,9 +25,39 @@
 			<s>Amén.</s>
 		</p>
 	</voice>
-\begin{finalnotes}
-			<s>(Se reza tres veces el Gloria al Padre)</s>
-\end{finalnotes}
+	<voice gender="male" variant="1">
+		<p>
+			<s>Gloria al Padre, y al Hijo, y al Espíritu Santo.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>Como era en un principio, ahora y siempre, por los siglos de los siglos.</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>Gloria al Padre, y al Hijo, y al Espíritu Santo.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>Como era en un principio, ahora y siempre, por los siglos de los siglos.</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>Gloria al Padre, y al Hijo, y al Espíritu Santo.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>Como era en un principio, ahora y siempre, por los siglos de los siglos.</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
 
 	<voice gender="male" variant="1">
 		<p>
@@ -69,9 +99,123 @@
 			<s>Amén.</s>
 		</p>
 	</voice>
-\begin{finalnotes}
-			<s>(Se reza nueve veces el Ave María.)</s>
-\end{finalnotes}
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
 
 	<voice gender="male" variant="1">
 		<p>
@@ -91,9 +235,45 @@
 			<s>Amén.</s>
 		</p>
 	</voice>
-\begin{finalnotes}
-			<s>(Se reza Padre nuestro, Ave María y Gloria al Padre)</s>
-\end{finalnotes}
+	<voice gender="male" variant="1">
+		<p>
+			<s>Padre nuestro que estás en el Cielo, santificado sea Tu nombre.</s>
+			<s>Venga a nosotros Tu reino.</s>
+			<s>Hágase Tu voluntad en la tierra como en el Cielo.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>Danos hoy nuestro pan de cada día.</s>
+			<s>Perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden.</s>
+			<s>No nos dejes caer en tentación y líbranos del mal,</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>¡Dios te salve María, llena eres de gracia!</s>
+			<s>El Señor está contigo.</s>
+			<s>Bendita tú eres entre todas las mujeres, y bendito es el fruto de tu vientre, Jesús.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>¡Santa María, madre de Dios, ruega por nosotros los pecadores, ahora y en la hora de nuestra muerte!</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
+	<voice gender="male" variant="1">
+		<p>
+			<s>Gloria al Padre, y al Hijo, y al Espíritu Santo.</s>
+		</p>
+	</voice>
+	<voice gender="female">
+		<p>
+			<s>Como era en un principio, ahora y siempre, por los siglos de los siglos.</s>
+			<s>Amén.</s>
+		</p>
+	</voice>
 
 	<voice gender="male" variant="1">
 		<p>
@@ -103,7 +283,7 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>Dulce Jesús Mío, mi niño adorado,\\</s>
+			<s>Dulce Jesús Mío, mi niño adorado,</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -115,10 +295,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Oh Sapiencia suma</s><s>del Dios soberano,</s>
-			<s>que al nivel de un Niño</s><s>te hayas rebajado!</s>
-			<s>¡Oh Divino Niño,</s><s>ven para enseñarnos</s>
-			<s>la prudencia que hace</s><s>verdaderos sabios!\\</s>
+			<s>¡Oh Sapiencia suma del Dios soberano,</s>
+			<s>que al nivel de un Niño te hayas rebajado!</s>
+			<s>¡Oh Divino Niño, ven para enseñarnos</s>
+			<s>la prudencia que hace verdaderos sabios!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -130,14 +310,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Oh, Adonaí potente</s>
-			<s>que a Moisés hablando,</s>
-			<s>de Israel al pueblo</s>
-			<s>dísteis los mandatos!</s>
-			<s>¡Ah, ven prontamente</s>
-			<s>para rescatarnos,</s>
-			<s>y que un niño débil</s>
-			<s>muestre fuerte brazo!\\</s>
+			<s>¡Oh, Adonaí potente que a Moisés hablando,</s>
+			<s>de Israel al pueblo dísteis los mandatos!</s>
+			<s>¡Ah, ven prontamente para rescatarnos,</s>
+			<s>y que un niño débil muestre fuerte brazo!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -149,14 +325,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Oh raíz sagrada</s>
-			<s>de Jesé, que en lo alto</s>
-			<s>presentas al orbe</s>
-			<s>tu fragante nardo!</s>
-			<s>¡Dulcísimo Niño,</s>
-			<s>que has sido llamado</s>
-			<s>“Lirio de los valles,</s>
-			<s>Bella flor del campo!”\\</s>
+			<s>¡Oh raíz sagrada de Jesé, que en lo alto</s>
+			<s>presentas al orbe tu fragante nardo!</s>
+			<s>¡Dulcísimo Niño, que has sido llamado</s>
+			<s>“Lirio de los valles, Bella flor del campo!”</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -168,14 +340,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Llave de David</s>
-			<s>que abre al desterrado</s>
-			<s>las cerradas puertas</s>
-			<s>de regio palacio!</s>
-			<s>¡Sácanos, oh Niño,</s>
-			<s>con tu blanca mano,</s>
-			<s>de la cárcel triste</s>
-			<s>que labró el pecado!\\</s>
+			<s>¡Llave de David que abre al desterrado</s>
+			<s>las cerradas puertas de regio palacio!</s>
+			<s>¡Sácanos, oh Niño, con tu blanca mano,</s>
+			<s>de la cárcel triste que labró el pecado!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -187,14 +355,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Oh, lumbre de Oriente,</s>
-			<s>Sol de eternos rayos,</s>
-			<s>que entre las tinieblas</s>
-			<s>tu esplendor veamos!</s>
-			<s>¡Niño tan precioso,</s>
-			<s>dicha del cristiano,</s>
-			<s>luzca la sonrisa</s>
-			<s>de tus dulces labios!\\</s>
+			<s>¡Oh, lumbre de Oriente, Sol de eternos rayos,</s>
+			<s>que entre las tinieblas tu esplendor veamos!</s>
+			<s>¡Niño tan precioso, dicha del cristiano,</s>
+			<s>luzca la sonrisa de tus dulces labios!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -206,14 +370,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Espejo sin mancha,</s>
-			<s>santo de los santos,</s>
-			<s>sin igual imagen del</s>
-			<s>Dios soberano!</s>
-			<s>¡Borra nuestras culpas,</s>
-			<s>salva al desterrado</s>
-			<s>y, en forma de niño,</s>
-			<s>da al mísero amparo!\\</s>
+			<s>¡Espejo sin mancha, santo de los santos,</s>
+			<s>sin igual imagen del Dios soberano!</s>
+			<s>¡Borra nuestras culpas, salva al desterrado</s>
+			<s>y, en forma de niño, da al mísero amparo!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -225,14 +385,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>Rey de las naciones,</s>
-			<s>Emmanuel preclaro,</s>
-			<s>de Israel anhelo,</s>
-			<s>pastor de rebaño!</s>
-			<s>¡Niño que apacientas</s>
-			<s>con suave cayado</s>
-			<s>ya la oveja arisca</s>
-			<s>ya el cordero manso!\\</s>
+			<s>Rey de las naciones, Emmanuel preclaro,</s>
+			<s>de Israel anhelo, pastor de rebaño!</s>
+			<s>¡Niño que apacientas con suave cayado</s>
+			<s>ya la oveja arisca ya el cordero manso!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -244,14 +400,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>Ábranse los cielos</s>
-			<s>y llueva de lo alto</s>
-			<s>bienhechor rocío</s>
-			<s>como riego santo!</s>
-			<s>¡Ven hermoso Niño!</s>
-			<s>¡Ven Dios humanado!</s>
-			<s>¡Luce, hermosa estrella!</s>
-			<s>¡Brota flor del campo!\\</s>
+			<s>Ábranse los cielos y llueva de lo alto</s>
+			<s>bienhechor rocío como riego santo!</s>
+			<s>¡Ven hermoso Niño! ¡Ven Dios humanado!</s>
+			<s>¡Luce, hermosa estrella! ¡Brota flor del campo!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -263,14 +415,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Ven, que ya María</s>
-			<s>previene sus brazos,</s>
-			<s>do su Niño vea</s>
-			<s>en tiempo cercano!</s>
-			<s>¡Ven que ya José</s>
-			<s>con anhelo sacro</s>
-			<s>se dispone a hacerse</s>
-			<s>de tu amor sagrario!\\</s>
+			<s>¡Ven, que ya María previene sus brazos,</s>
+			<s>do su Niño vea en tiempo cercano!</s>
+			<s>¡Ven que ya José con anhelo sacro</s>
+			<s>se dispone a hacerse de tu amor sagrario!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -282,14 +430,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Del débil auxilio,</s>
-			<s>del doliente amparo,</s>
-			<s>consuelo del triste,</s>
-			<s>luz del desterrado!</s>
-			<s>¡Vida de mi vida,</s>
-			<s>mi sueño adorado,</s>
-			<s>mi constante amigo,</s>
-			<s>mi divino hermano!\\</s>
+			<s>¡Del débil auxilio, del doliente amparo,</s>
+			<s>consuelo del triste, luz del desterrado!</s>
+			<s>¡Vida de mi vida, mi sueño adorado,</s>
+			<s>mi constante amigo, mi divino hermano!</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -301,14 +445,10 @@
 
 	<voice gender="male" variant="2">
 		<p>
-			<s>¡Vén ante mis ojos</s>
-			<s>de ti enamorados!</s>
-			<s>¡Bese ya tus plantas!</s>
-			<s>¡Bese ya tus manos!</s>
-			<s>Prosternado en tierra</s>
-			<s>te tiendo los brazos</s>
-			<s>y aun más que mis frases</s>
-			<s>te dice mi llanto.\\</s>
+			<s>¡Vén ante mis ojos de ti enamorados!</s>
+			<s>¡Bese ya tus plantas! ¡Bese ya tus manos!</s>
+			<s>Prosternado en tierra te tiendo los brazos</s>
+			<s>y aun más que mis frases te dice mi llanto.</s>
 		</p>
 	</voice>
 	<voice gender="female">
@@ -321,7 +461,7 @@
 	<voice gender="male" variant="2">
 		<p>
 			<s>¡Ven Salvador Nuestro</s>
-			<s>Por quien suspiramos!\\</s>
+			<s>Por quien suspiramos!</s>
 		</p>
 	</voice>
 	<voice gender="female">
