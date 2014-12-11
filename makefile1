@@ -1,0 +1,46 @@
+
+CV=avconv
+DAYS=1 2 3 4 5 6 7 8 9
+GOZS=1 2 3 4 5 6 7 8 9 10 11 12
+space=$(eval) $(eval)
+NOVENAS=(patsubst %,novena%.mp4,$(DAYS))
+DIAS=(patsubst %,dia%.ts,$(DAYS))
+CRDS=(patsubst %,cred%.ts,$(DAYS))
+GOZOS=(patsubst %,goso-%.ts,$(GOSZ))
+CATFLAGS=-c copy -absf aac_adtstoasc -y
+AVFLAGS=-c copy -y
+
+all: $(NOVENAS)
+
+$(NOVENAS): inicio.ts dia1.ts medio.ts gozos.ts fin.ts cred1.ts
+	$(CV) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
+
+inicio.ts: intro.ts todos.ts gloria.ts
+	$(CV) -i "concat:$(subst $(space),|,$^)|gloria.ts|gloria.ts" $(CATFLAGS) $@
+
+medio.ts: mariap.ts josep.ts
+	$(CV) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
+
+gozos.ts: $(GOZOS)
+	$(CV) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
+
+fin.ts: jesus.ts fade.ts
+	$(CV) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
+
+$(CRDS): credits-1.ts patreon.ts tube.ts
+	$(CV) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
+
+mariap.ts: maria.ts ave.ts
+	$(CV) -i "concat:maria.ts|ave.ts|ave.ts|ave.ts|ave.ts|ave.ts|ave.ts|ave.ts|ave.ts|ave.ts)" $(CATFLAGS) $@
+
+josep.ts: jose.ts padre.ts ave.ts gloria.ts
+	$(CV) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
+
+intro.ts: intro-f.ts intro.m4a
+	$(CV) -i intro-f.ts -i intro.m4a $(AVFLAGS) $@
+
+intro-f.ts: intro0.svg intro1.svg intro3.svg
+	$(CF) -f intro
+
+%.m4a: %.flac
+	$(CV) -i $< $(AACFLAGS) $@
