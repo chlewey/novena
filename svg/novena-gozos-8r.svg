@@ -49,8 +49,11 @@
            id="resumen-s" sodipodi:role="line" x="480" y="270">Gozos - VIII</tspan></text>
       </g>
       <g id="glauco" style="opacity:0.875;fill:#ffee99;stroke:#998833;stroke-width:1">
-        <flowRoot id="texto" style="font-size:85px;font-weight:bold;text-align:justify;line-height:125%;text-anchor:start;font-family:Latin Modern Sans" xml:space="preserve"><flowRegion id="texto-r"><path id="texto-q" inkscape:connector-curvature="0" d="m 32,322 982,0 -138,732 -798,0 z" style="font-size:64px;font-weight:bold;text-align:justify;line-height:115.99999666%;text-anchor:start;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Latin Modern Sans;-inkscape-font-specification:Latin Modern Sans Bold" /></flowRegion><flowPara
-           id="texto-p" /></flowRoot>
+        <flowRoot id="texto" style="font-size:85px;font-weight:bold;text-align:justify;line-height:125%;text-anchor:start;font-family:Latin Modern Sans" xml:space="preserve"><flowRegion id="texto-r"><path id="texto-q" inkscape:connector-curvature="0" d="m 32,322 982,0 -38,732 -898,0 z" style="font-size:64px;font-weight:bold;text-align:justify;line-height:115.99999666%;text-anchor:start;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Latin Modern Sans;-inkscape-font-specification:Latin Modern Sans Bold" /></flowRegion><flowPara
+           id="texto-p">¡Ven hermoso Niño!</flowPara><flowPara
+           id="texto-p2">¡Ven Dios humanado!</flowPara><flowPara
+           id="texto-p3">¡Luce, hermosa estrella!</flowPara><flowPara
+           id="texto-p4">¡Brota flor del campo!</flowPara></flowRoot>
       </g>
     </g>
   </g>
