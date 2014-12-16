@@ -16,7 +16,7 @@ then
 	bash $FNS ${1: -2}
 else
 	echo "Opción incorrecta '$1'." 1>&2
-	echo $FN $FNY $FNS
+	echo $FN $FNT $FNS
 	exit 1
 fi
 
