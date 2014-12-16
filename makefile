@@ -58,7 +58,7 @@ bloque/maria.ts: parte/maria.ts parte/ave.ts
 bloque/jose.ts: parte/jose.ts parte/padre.ts parte/ave.ts parte/gloria.ts
 	$(VC) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
 
-bloque/gozos.ts: parte/gozos-i.ts $(GOSOZ)
+bloque/gozos.ts: parte/gozos-i.ts $(GOZOS)
 	$(VC) -i "concat:$(subst $(space),|,$^)" $(CATFLAGS) $@
 
 bloque/jesus.ts: parte/jesus.ts parte/fade.ts
