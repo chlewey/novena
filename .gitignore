@@ -9,3 +9,5 @@ parte/
 bloque/
 muted/
 png/
+*_data/
+*.au
