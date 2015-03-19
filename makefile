@@ -2,7 +2,7 @@
 # COMPILERS and Compiler FLAGS
 #
 VC = avconv
-CATFLAGS = -c copy -y
+CATFLAGS = -c:v h264 -c:a copy -y
 AACFLAGS = -crf 18 -preset medium -c:a aac -ac 2 -ar 44100 -b:a 128k -strict experimental -y
 AVFLAGS  = -c copy -y
 space = $(eval) $(eval)

@@ -1,6 +1,7 @@
 
-ta=( 2.5 5.0 5.5 5.0 4.5 5.0 4.5 5.0 )
-tb=( 2.5 5.0 5.5 4.5 4.5 5.0 6.0 5.0 )
+#     0   1   2   3   4   5   6   7   8   9  10  11  12
+ta=( 2.5 5.0 5.5 5.0 4.5 5.0 4.5 5.0 5.0 5.0 6.0 5.0 2.5 )
+tb=( 2.5 5.0 5.5 4.5 4.5 5.0 6.0 5.0 5.5 4.5 4.5 5.0 2.5 )
 
 FNt="png/gozos-t.png"
 IFNt="svg/novena-gozos-t.svg"
@@ -16,7 +17,7 @@ if [ ! -f $VFNt ]; then
 			exit 1
 		fi
 	fi
-	avconv -loop 1 -i $FNt -c:v h264 -tune stillimage -pix_fmt yuv420p -r 2 -t ${ta[$1]} -qscale 1 -y $VFNt
+	avconv -loop 1 -i $FNt -c:v h264 -tune stillimage -pix_fmt yuv420p -r 2 -t 2.5 -qscale 1 -y $VFNt
 fi
 
 if [ $1 -gt 0 ] && [ $1 -lt 12 ]; then
@@ -57,11 +58,11 @@ if [ $1 -gt 0 ] && [ $1 -lt 12 ]; then
 
 	VFN="muted/gozo-$1.ts"
 
-	if [ ! -f $VFN ]; then
-		avconv -loop 1 -i concat:$FNa\|$FNb -c:v copy -y $VFNa
-	fi
+	#if [ ! -f $VFN ]; then
+		avconv -i concat:$VFNa\|$VFNb -c:v h264 -y $VFN
+	#fi
 	
-	ln -sf $VFNt $VFNr
+	ln -sf ${VFNt##*/} $VFNr
 else
 	FN="png/gozo-$1.png"
 	IFN="svg/novena-gozos-$1.svg"
